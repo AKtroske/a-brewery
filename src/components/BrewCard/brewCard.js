@@ -34,7 +34,7 @@ function BrewCard({
         </div>
         <div className="flex flex-grow flex-row justify-end">
           <div className="flex flex-col justify-center">
-            {(url) && <Button size="circle" type="base"><a href={url}>Go</a></Button>}
+            {(url) && <Button size="circle" type="base"><a href={url} target="_blank" rel="noopener noreferrer">Go</a></Button>}
           </div>
         </div>
       </div>
