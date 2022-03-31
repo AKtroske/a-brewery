@@ -1,3 +1,13 @@
+# A Brewery 
+
+A place to see Breweries in Seattle - Bootstrapped by CRA
+
+To run locally:
+```
+npm install
+npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
