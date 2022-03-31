@@ -19,7 +19,7 @@ module.exports = {
         gray: '#3E4451',
       },
       red: {
-        light: colors.red[200],
+        light: colors.red[100],
         med: colors.red[500],
         dark: colors.red[800],
       },
